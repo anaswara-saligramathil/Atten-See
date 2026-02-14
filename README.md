@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="<img width="1920" height="1080" alt="Screenshot 2026-02-14 100053" src="https://github.com/user-attachments/assets/9c992bad-f088-49c4-8a9a-78733dfd8f38" />
-" alt="Project Banner" width="100%">
+  <img width="1920" height="1080" alt="<img width="1595" height="793" alt="image" src="https://github.com/user-attachments/assets/eaf75416-63a0-4ba0-af24-1c62cd86ba42" />
+" />
+
 </p>
 
 # AttenSee
