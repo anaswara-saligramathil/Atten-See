@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[![Uploading Screenshot 2026-02-14 100053.png…]()](https://drive.google.com/file/d/1I2iWRdfLvWiGPcwj8C8rwt7k2AUlHpHG/view?usp=sharing)" alt="Project Banner" width="100%">
+  <img src="<img width="1920" height="1080" alt="Screenshot 2026-02-14 100053" src="https://github.com/user-attachments/assets/9c992bad-f088-49c4-8a9a-78733dfd8f38" />
+" alt="Project Banner" width="100%">
 </p>
 
 # AttenSee
