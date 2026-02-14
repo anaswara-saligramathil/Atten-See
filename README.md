@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
+  <img src="https://drive.google.com/file/d/1I2iWRdfLvWiGPcwj8C8rwt7k2AUlHpHG/view" alt="Project Banner" width="100%">
 </p>
 
 # AttenSee
