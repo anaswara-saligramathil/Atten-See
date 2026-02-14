@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1I2iWRdfLvWiGPcwj8C8rwt7k2AUlHpHG/view" alt="Project Banner" width="100%">
+  <img src="![Uploading Screenshot 2026-02-14 100053.png…]()
+" alt="Project Banner" width="100%">
 </p>
 
 # AttenSee
