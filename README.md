@@ -146,12 +146,15 @@ npm run dev
 #### Screenshots (Add at least 3)
 
 1.Study Mode (Real-Time Detection)
+https://drive.google.com/drive/folders/11duOp-42amYszjae0v5mY-CrZu2qlOUt
 Displays live camera feed, focus score, and distraction alerts.
 
 2.Analytics Dashboard
+https://drive.google.com/drive/folders/11duOp-42amYszjae0v5mY-CrZu2qlOUt
 Shows weekly focus trends and productivity stats using Recharts.
 
 3. Lecture Processor
+https://drive.google.com/drive/folders/11duOp-42amYszjae0v5mY-CrZu2qlOUt
 Upload audio → get transcript → summary → flashcards.
 
 #### Diagrams
@@ -180,6 +183,7 @@ Application Workflow:
 
 ### Video
 https://drive.google.com/drive/folders/1q5lrEC0mlDsh5r2BHsuK8Au-Ck1f-TAG
+https://drive.google.com/drive/folders/11duOp-42amYszjae0v5mY-CrZu2qlOUt
 
 Demonstrates:
 
